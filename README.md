@@ -19,6 +19,6 @@ as generated sources root:
 ![image](images/image1.png)
 
 8. Run GrpcServer.java file 
-9. In the python IDE terminal run: uvicorn main:app --reload
+9. In the python IDE terminal run: `uvicorn main:app --reload`
 10. Go to: http://127.0.0.1:8000 and ENJOY!
 
