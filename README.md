@@ -8,7 +8,6 @@ In order to run this project you need to follow theese steps:
 5. Open server-java folder in your java IDE
 6. Install the requirements for java using `mvn install`
 7. Mark these three folders:
-</br>
 ![image](images/image.png)
 as generated sources root:
 ![image](images/image1.png)
